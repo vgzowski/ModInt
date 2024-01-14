@@ -47,4 +47,4 @@ git clone https://github.com/your-username/your-repo-name.git
 - An example of usage can be found [here](/src/testing.cpp)
 
 # License
-- The project is available under the MIT License. [See the details](/LICENSE.MD)
+- The project is available under the MIT License. [See the details](/LICENSE.md)
