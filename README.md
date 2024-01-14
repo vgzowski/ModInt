@@ -6,8 +6,8 @@ A powerful C++ library for modular arithmetic, providing a ModInteger class with
 
 - [Installation](#installation)
 - [Features](#features)
-  - [ModInteger Class](##modular-integer-features)
-  - [ModuloHelper Library](##modulo-helper-features)
+  - [ModInteger Class](#modular-integer-features)
+  - [ModuloHelper Library](#modulo-helper-features)
 - [Examples](#examples)
 - [License](#license)
 
