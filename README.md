@@ -33,7 +33,8 @@ git clone https://github.com/your-username/your-repo-name.git
 - Has an inner ```__mod_value``` value set to ```Mod```
 - Basic comparasion operators ('<', '==', '>', '<=', '>=', '!=')
 - The last number for which the ```inverse()``` was called in stored as cache
-- Ability to precalculate inverses of numbers in range $[1, n]$ in $O(n)$ time ('```initialiseInverse\<MOD>(n)```')
+- Ability to precalculate inverses of numbers in range $[1, n]$ in $O(n)$ time ('```initialiseInverse<MOD>(n)```')
+- Compile-time structure IsModular \<T> - checkes if the given type is of form ```ModInteger <MOD>``` and stores the result in a static internal variable ```::value```
 ## Modulo helper features
 - All function have syntax ModuloHelper::FUNCTION<X>::value and work in compile-time
 - IsPrime \<X> - checks if $X$ is a prime number
