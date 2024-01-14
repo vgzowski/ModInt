@@ -16,7 +16,7 @@ A powerful C++ library for modular arithmetic, providing a ModInteger class with
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/vgzowski/ModInt
 ```
 
 # Features
